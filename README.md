@@ -21,6 +21,7 @@
 
 ### To run a container from this image we use :
     docker run -d --name [container-name] -p 8080:8080 [image-name]
+    
 
 
 
